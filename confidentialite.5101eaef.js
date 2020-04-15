@@ -6,3 +6,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 "use strict";require("bootstrap/dist/css/bootstrap.min.css"),require("./main.css");
 },{"bootstrap/dist/css/bootstrap.min.css":"y3A0","./main.css":"Sr7R"}]},{},["XwIJ"], null)
 //# sourceMappingURL=/confidentialite.5101eaef.js.map
+//a
